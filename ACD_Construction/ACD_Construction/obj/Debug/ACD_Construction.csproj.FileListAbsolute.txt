@@ -1,0 +1,17 @@
+C:\Users\enes4\Desktop\KURS\Windows Form\ACD\ACD_Construction\ACD_Construction\bin\Debug\ACD_Construction.exe.config
+C:\Users\enes4\Desktop\KURS\Windows Form\ACD\ACD_Construction\ACD_Construction\bin\Debug\ACD_Construction.exe
+C:\Users\enes4\Desktop\KURS\Windows Form\ACD\ACD_Construction\ACD_Construction\bin\Debug\ACD_Construction.pdb
+C:\Users\enes4\Desktop\KURS\Windows Form\ACD\ACD_Construction\ACD_Construction\bin\Debug\EntityFramework.dll
+C:\Users\enes4\Desktop\KURS\Windows Form\ACD\ACD_Construction\ACD_Construction\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\enes4\Desktop\KURS\Windows Form\ACD\ACD_Construction\ACD_Construction\bin\Debug\EntityFramework.xml
+C:\Users\enes4\Desktop\KURS\Windows Form\ACD\ACD_Construction\ACD_Construction\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\enes4\Desktop\KURS\Windows Form\ACD\ACD_Construction\ACD_Construction\obj\Debug\ACD_Construction.csproj.AssemblyReference.cache
+C:\Users\enes4\Desktop\KURS\Windows Form\ACD\ACD_Construction\ACD_Construction\obj\Debug\ACD_Construction.csproj.SuggestedBindingRedirects.cache
+C:\Users\enes4\Desktop\KURS\Windows Form\ACD\ACD_Construction\ACD_Construction\obj\Debug\ACD_Construction.Login.resources
+C:\Users\enes4\Desktop\KURS\Windows Form\ACD\ACD_Construction\ACD_Construction\obj\Debug\ACD_Construction.Properties.Resources.resources
+C:\Users\enes4\Desktop\KURS\Windows Form\ACD\ACD_Construction\ACD_Construction\obj\Debug\ACD_Construction.csproj.GenerateResource.cache
+C:\Users\enes4\Desktop\KURS\Windows Form\ACD\ACD_Construction\ACD_Construction\obj\Debug\ACD_Construction.csproj.CoreCompileInputs.cache
+C:\Users\enes4\Desktop\KURS\Windows Form\ACD\ACD_Construction\ACD_Construction\obj\Debug\ACD_Construction.csproj.CopyComplete
+C:\Users\enes4\Desktop\KURS\Windows Form\ACD\ACD_Construction\ACD_Construction\obj\Debug\ACD_Construction.exe
+C:\Users\enes4\Desktop\KURS\Windows Form\ACD\ACD_Construction\ACD_Construction\obj\Debug\ACD_Construction.pdb
+C:\Users\enes4\Desktop\KURS\Windows Form\ACD\ACD_Construction\ACD_Construction\obj\Debug\ACD_Construction.DocumentOperations.resources
